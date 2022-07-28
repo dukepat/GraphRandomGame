@@ -1,0 +1,1 @@
+graph init --contract-name RandomWinnerGame --product hosted-service dukepat/elfradgraph  --from-contract 0x3F3421E19bbFf4030bc8af0bcd38509cC8548171  --abi ./abi.json --network mumbai graph   
